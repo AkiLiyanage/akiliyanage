@@ -9,7 +9,14 @@ I am a passionate learner and aspiring developer with a growing interest in web 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 
 
-
+const akiliyanage = {
+    location: "Sri Lanka 🇱🇰",
+    education: "Undergraduate in Information and Communication Engineering",
+    roles: ["Full Stack Developer", "Cloud Architect", "AI Enthusiast"],
+    currentFocus: ["Cloud Computing", "Data Analytics", "Web Development"],
+   
+    lifePhilosophy: "Learning something new every day 🚀"
+};
 
 
 
