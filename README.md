@@ -1,38 +1,37 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?akiliyanagecolor=blueviolet" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/akiliyanagestyle=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/akiliyanagestyle=social" alt="GitHub stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Akalanki-Liyanage&color=blueviolet" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Akalanki-Liyanage?style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/Akalanki-Liyanage?style=social" alt="GitHub stars"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=500&lines=🚀+Software+Developer;🔍+Security+Enthusiast;🌐+Web+Developer;💻+System+Engineer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B68EE&center=true&vCenter=true&width=500&lines=🚀+Software+Developer;🔍+Undergraduate+Student;🌐+Web+Developer;💻+System+Engineer" alt="Typing SVG"/>
 </div>
 
 ## 📊 My GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?akiliyanage&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=akiliyanage&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   </div>
   <div style="flex: 1;">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?akiliyanageE&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=akiliyanage&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </div>
 </div>
 
 ## 🔥 Most Used Languages
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiliyanage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akalanki-Liyanage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 ## 👨‍💻 About Me
 
 - 😊 I'm Akalanki Liyanage
-- 🎓 I'm currently studying Information and Communication Engineering
+- 🎓 I'm currently studying Computer Systems and Network Engineering
 - 💡 I'm interested in:
   - Software Development
   - Cybersecurity
-  - Data Analytics
   - Web Development
   - System Architecture
 - 🌱 Always learning and exploring new technologies
@@ -52,11 +51,11 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/akiliyanage/project1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akiliyanageE&repo=project1&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Akalanki-Liyanage/project1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akalanki-Liyanage&repo=project1&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/akiliyanage/project2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akiliyanage&repo=project2&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Akalanki-Liyanage/project2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Akalanki-Liyanage&repo=project2&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
@@ -79,8 +78,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
-
-
 
 
 
