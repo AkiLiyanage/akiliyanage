@@ -1,9 +1,9 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" alt="GitHub stars"/>
+  <img src="https://komarev.com/ghpvc/?akiliyanagecolor=blueviolet" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/akiliyanagestyle=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/akiliyanagestyle=social" alt="GitHub stars"/>
 </p>
 
 <div align="center">
@@ -14,24 +14,25 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?akiliyanage&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   </div>
   <div style="flex: 1;">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?akiliyanageE&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </div>
 </div>
 
 ## 🔥 Most Used Languages
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiliyanage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 ## 👨‍💻 About Me
 
-- 😊 I'm [Your Name]
-- 🎓 I'm currently studying Computer Systems and Network Engineering
+- 😊 I'm Akalanki Liyanage
+- 🎓 I'm currently studying Information and Communication Engineering
 - 💡 I'm interested in:
   - Software Development
   - Cybersecurity
+  - Data Analytics
   - Web Development
   - System Architecture
 - 🌱 Always learning and exploring new technologies
@@ -51,11 +52,11 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/project1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/akiliyanage/project1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akiliyanageE&repo=project1&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME/project2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/akiliyanage/project2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=akiliyanage&repo=project2&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
