@@ -1,6 +1,6 @@
 ## Hello, World! I'm Akalanki Liyanage 🌍💡  
 
-🔹 **Full-stack explorer | Cybersecurity enthusiast | Problem solver**  
+🔹 **Full-stack developer | Tutor | Problem solver**  
 🔹 **Turning coffee ☕ into code, and dreams into reality 🚀**  
  
 
