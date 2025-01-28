@@ -1,4 +1,4 @@
-## About Me
+## Helloo
 I am a passionate learner and aspiring developer with a growing interest in web development and data analytics. Currently, I am exploring React and modern JavaScript frameworks to build user-friendly and efficient web applications. My curiosity drives me to dive deep into new technologies, experiment with creative ideas, and constantly improve my skills.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
