@@ -2,9 +2,7 @@
 
 🔹 **Full-stack developer | Tutor | Problem solver**  
 🔹 **Turning coffee ☕ into code, and dreams into reality 🚀**  
- 
-
-> **"Code is like humor. When you have to explain it, it’s bad." — Cory House**  
+  
 
 ---
 
